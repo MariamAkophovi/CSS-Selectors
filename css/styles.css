@@ -1,0 +1,24 @@
+#para1 {
+    text-align: center;
+    color: red;
+}
+.center {
+    text-align: center;
+    color: red;
+}
+p.center1 {
+    text-align: center;
+    color: red;
+}
+p.center2 {
+    text-align: center;
+    color: red;
+}
+  
+p.large {
+    font-size: 300%;
+}
+* {
+    text-align: center;
+    color: blue;
+}
